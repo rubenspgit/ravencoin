@@ -1,0 +1,2 @@
+# ravencoin
+First coin ever
